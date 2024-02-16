@@ -587,7 +587,7 @@ Be sure to have download [IPFS Desktop](#install-the-ipfs-desktop-app) and [IPFS
 Follow the following guide:
 https://docs.pinata.cloud/recipes/upload-a-file-to-pinata
 
-#### Leverage P2P to create a website hosted decentralizely.
+#### Leverage P2P to create a website hosted  decentralizely.
 
 In this section we will host a website directly from IPFS.
 Plus we will automaticly deploy website modification to production using GitHub action.
